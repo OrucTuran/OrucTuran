@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @OrucTuran😎😎
 - 👀 I’m interested in ... 💻
-- 🌱 I’m currently learning ... C# | Unity | MSSQL | ADO.NET | Entity.Framework | HTML/CSS |
-- 💞️ I’m looking to collaborate on ... New Projects🤩
 - 📫 How to reach me ... 
 - |instagram: oructuran0 
 - |Email: orctrn194@gmail.com 

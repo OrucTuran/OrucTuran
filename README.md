@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OrucTuran😎😎
+- 👋 Hi, I’m @OrucTuran
 - 👀 I’m interested in ... 💻
 - 📫 How to reach me ... 
 - |instagram: oructuran0 

@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Oruc Turan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
@@ -10,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/oructuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oructuran" height="30" width="40" /></a>
 <a href="https://instagram.com/oructuran0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oructuran0" height="30" width="40" /></a>
-<a href="https://discord.gg/oructuran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="oructuran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

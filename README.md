@@ -1,4 +1,4 @@
-![MasterHead](https://www.zdnet.com/a/img/resize/e0a9cadd3b0038b854680cff5a197bdf96580443/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?auto=webp&width=1280)
+
 <h1 align="center">Hi 👋, I'm Oruc Turan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 

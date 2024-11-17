@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oruc Turan</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **ASP.NET / MVC5 / FLUTTER**
+- 🌱 I’m currently learning and building **.NET backend web applications using C#.**
 
 - 📫 How to reach me **orctrn194@gmail.com**
 

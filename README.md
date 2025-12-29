@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Oruc Turan</h1>
-<h3 align="center">.NET Backend & Web Developer from Istanbul, Türkiye</h3>
+<h3 align="center">.NET Backend & Web Developer from Istanbul, Turkey</h3>
 
 - 🚀 I'm currently focused on building **robust backend and web applications** using **ASP.NET Core, C#, EF Core, and SQL Server**  
 - 🧱 Passionate about **layered architecture**, **clean code**, and **RESTful API development**  
 - 🎯 Actively learning and improving skills in scalable system design and modern .NET technologies  
-- 📫 Reach me at: **orctrn194@gmail.com**
+- 📫 Reach me at: **orctrn194@gmail.com** / **info@oructuran.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -70,9 +70,15 @@
 </p>
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=oructuran&show_icons=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=oructuran&layout=compact" />
+    </td>
+    <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oructuran&" alt="oructuran" /></p></td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oructuran&show_icons=true&locale=en&layout=compact" alt="oructuran" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oructuran&show_icons=true&locale=en" alt="oructuran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oructuran&" alt="oructuran" /></p>
